@@ -1,0 +1,29 @@
+{
+  "name": "mia-cog-fsf-pt-03-2020-u-c-homework11",
+  "version": "0.0.1",
+  "description": "Note Taker UM Bootcamp Homework 11",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrgsolis/MIA-COG-FSF-PT-03-2020-U-C-HOMEWORK11.git"
+  },
+  "keywords": [
+    "Note",
+    "Taker"
+  ],
+  "author": "Jorge Solis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jrgsolis/MIA-COG-FSF-PT-03-2020-U-C-HOMEWORK11/issues"
+  },
+  "homepage": "https://github.com/jrgsolis/MIA-COG-FSF-PT-03-2020-U-C-HOMEWORK11#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "util": "^0.12.3"
+  }
+}
