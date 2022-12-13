@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/jrgsolis/MIA-COG-FSF-PT-03-2020-U-C-HOMEWORK11#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "fs": "0.0.1-security",
     "util": "^0.12.3"
   }
